@@ -193,13 +193,13 @@ nav {
 }
 
 .other {
-    display: inline-block;
+    display: inline;
     float: left;
     color: #1a0dab;
     font-size: 14px;
-    cursor: pointer; 
     margin-bottom: -2px;
-    line-height: 60%;
+    line-height: 80%;
+
 }
 
 .left-side {
@@ -207,11 +207,16 @@ nav {
 }
 
 .right-side {
-    width: 60%;
+    width: 50%;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 .other-link:hover {
     text-decoration: underline;
+    cursor: pointer;
 }
 
 .g {
@@ -293,4 +298,3 @@ nav {
     cursor: pointer;
     text-decoration: underline;
 }
-
