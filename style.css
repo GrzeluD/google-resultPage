@@ -213,3 +213,84 @@ nav {
 .other-link:hover {
     text-decoration: underline;
 }
+
+.g {
+    background: url(assests/googleicon.png) no-repeat;
+    background-position: -24px 0;
+    width: 25px;
+    height: 40px;
+}
+
+.red-o {
+    background: url(assests/googleicon.png) no-repeat;
+    width: 19px;
+    height: 40px;
+    background-position: -54px 0;
+    padding: 0px;
+}
+
+.o {
+    background: url(assests/googleicon.png) no-repeat;
+    background-position: -75px 0;
+    width: 19px;
+    height: 40px;
+    padding: 0px;
+}
+
+.uno {
+    margin-left: 30px;
+    color: black !important;
+}
+ 
+.num {
+    padding-left: 6px;
+    font-size: small;
+    color:#4285f4;
+}
+
+.num:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.o:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+
+.gle {
+    background: url(assests/googleicon.png) no-repeat;
+    width: 48px;
+    height: 40px;
+    background-position: -96px 0;
+}
+
+.goooogle {
+    position: relative;
+    left: 140px;
+    top: 30px;
+    cursor: pointer;
+}
+
+.next {
+    background: url(assests/googleicon.png) no-repeat;
+    background-position: -153px 0;
+    width: 19px;
+    height: 40px;
+    position: relative;
+    left: 5px;
+    cursor: pointer;
+    
+}
+
+.next-text {
+    color: #4285f4;
+    font-size: small;
+}
+
+.next-text:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
