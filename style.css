@@ -14,10 +14,6 @@ body {
     left: 25px;
 }
 
-form {
-    position: relative;
-}
-
 .magnify {
     position: relative;
     float: left;
